@@ -40,5 +40,11 @@
     "Priority": "Low",
     "Rank": "Protectee",
     "KillZoneAmount": 13
+    },
+  "123": {
+    "Username": "Name",
+    "Priority": "High/Medium/Low",
+    "Rank": "Protectee",
+    "KillZoneAmount": 13
   }
 }
