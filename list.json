@@ -42,9 +42,9 @@
     "KillZoneAmount": 13
     },
   "123": {
-    "Username": "Name",
-    "Priority": "High/Medium/Low",
-    "Rank": "Protectee",
-    "KillZoneAmount": 13
+    "Username": "SuperFat",
+    "Priority": "Lowest",
+    "Rank": "Loser",
+    "KillZoneAmount": -50
   }
 }
