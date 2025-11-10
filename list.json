@@ -1,0 +1,44 @@
+{
+  "91713732": {
+    "Username": "Syrus",
+    "Priority": "High",
+    "Rank": "RIDC Marshal Commander",
+    "KillZoneAmount": 13
+  },
+  "34448681": {
+    "Username": "Chad",
+    "Priority": "High",
+    "Rank": "Former Chancellor",
+    "KillZoneAmount": 13
+  },
+  "484220118": {
+    "Username": "Oxley",
+    "Priority": "High",
+    "Rank": "Protectee",
+    "KillZoneAmount": 13
+  },
+  "87192916": {
+    "Username": "Friends",
+    "Priority": "Medium",
+    "Rank": "Former Supreme Commander",
+    "KillZoneAmount": 13
+  },
+  "139611655": {
+    "Username": "Blackout",
+    "Priority": "Medium",
+    "Rank": "RSF Marshal Commander",
+    "KillZoneAmount": 13
+  },
+  "531518759": {
+    "Username": "Alatar",
+    "Priority": "Medium",
+    "Rank": "Protectee",
+    "KillZoneAmount": 13
+  },
+  "626866146": {
+    "Username": "Havoc",
+    "Priority": "Low",
+    "Rank": "Protectee",
+    "KillZoneAmount": 0
+  }
+}
